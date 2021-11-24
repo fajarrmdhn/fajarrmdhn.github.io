@@ -89,11 +89,5 @@ form.form1 {
   font-weight: bold;
 }
 
-.forgot, a {
-    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
-    color: black;
-    text-decoration: none;
-}
-
 @media (max-width: 600px) {
 }
