@@ -36,10 +36,14 @@ html {
   padding: 0 8px;
 }
 
+h2, p {
+  text-align: center;
+}
 .outteam {
   text-align: center;
 }
 .card {
+  border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
   padding: 10px;
@@ -67,6 +71,7 @@ html {
 }
 
 .button {
+  border-radius: 5em;
   border: none;
   outline: 0;
   display: inline-block;
